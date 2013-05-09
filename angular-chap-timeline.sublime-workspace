@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"weibo",
+				"weiboUser"
+			],
+			[
+				"wei",
+				"weiboUser"
+			],
+			[
+				"Re",
+				"retrieve"
+			],
+			[
+				"get",
+				"getPost"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"we",
+				"weiboApi"
+			],
+			[
+				"gr",
+				"graphtype"
+			],
+			[
+				"text",
+				"text_content"
+			],
+			[
+				"from",
+				"fromstring"
+			],
+			[
+				"comment",
+				"comment_list"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"mouse",
+				"mouseY"
+			],
+			[
+				"tr",
+				"twitter"
+			],
+			[
+				"Sc",
+				"screen_name"
+			],
+			[
+				"t",
+				"twitter"
+			],
+			[
+				"USer",
+				"UserSchema"
+			],
+			[
+				"S",
+				"seuronSchema"
+			],
+			[
+				"respose",
+				"responseText"
+			],
+			[
+				"icon",
+				"icon-large"
+			],
+			[
+				"look",
+				"lookup"
+			],
+			[
+				"me",
+				"mentions"
+			],
+			[
+				"se",
+				"seurons_controller"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"Syn",
+				"SynapseSchema"
+			],
+			[
+				"M",
+				"MessageSchema"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"na",
+				"nav-header"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"analyzeT",
+				"analyzeTweet"
+			],
+			[
+				"anal",
+				"analyzetweet"
+			],
+			[
+				"analyze",
+				"analyzeReply"
+			],
+			[
+				"seuron",
+				"seuronB"
+			],
+			[
+				"pre",
+				"prevId"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"message",
+				"messageId"
+			],
+			[
+				"Inter",
+				"Interaction"
+			],
+			[
+				"tw",
+				"twitterId"
+			],
+			[
+				"create",
+				"createSynapse"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"logged",
+				"loggedIn"
+			],
+			[
+				"force",
+				"createForceData"
+			],
+			[
+				"link",
+				"linkMarker"
+			],
+			[
+				"fill",
+				"fill-opacity"
+			],
+			[
+				"thi",
+				"thisOpacity"
+			],
+			[
+				"seur",
+				"seurons"
+			],
+			[
+				"is",
+				"isSelected"
+			],
+			[
+				"THREAD",
+				"threads"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"show",
+				"showInfoBox"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"int",
+				"interactions"
+			],
+			[
+				"in",
+				"indexA"
+			],
+			[
+				"inde",
+				"indexB"
+			],
+			[
+				"push",
+				"pushMatrix"
+			],
+			[
+				"displa",
+				"displayable"
+			],
+			[
+				"dis",
+				"dispIds"
+			],
+			[
+				"consoe",
+				"console.log	console.log"
+			],
+			[
+				"po",
+				"posX"
+			],
+			[
+				"Pos",
+				"posX"
+			],
+			[
+				"begin",
+				"beginShape"
+			],
+			[
+				"disp",
+				"dispIds"
+			],
+			[
+				"retweet",
+				"retweeted_status"
+			],
+			[
+				"date",
+				"dateMax"
+			],
+			[
+				"h",
+				"hashtags"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"timel",
+				"timelineMentions"
+			],
+			[
+				"ana",
+				"analyzeTweet"
+			],
+			[
+				"tim",
+				"timelineMentions"
+			],
+			[
+				"time",
+				"timelineMentions"
+			],
+			[
+				"foun",
+				"foundUser"
+			],
+			[
+				"created",
+				"createdUser"
+			],
+			[
+				"messages",
+				"messageIds"
+			],
+			[
+				"analy",
+				"analyzeTweet"
+			],
+			[
+				"mess",
+				"messageIds"
+			],
+			[
+				"dady",
+				"daddy"
+			],
+			[
+				"ret",
+				"retweeted_status"
+			],
+			[
+				"to",
+				"toAnalyze"
+			],
+			[
+				"us",
+				"user_mentions"
+			],
+			[
+				"exclude",
+				"exclude_id"
+			],
+			[
+				"friend",
+				"friends"
+			],
+			[
+				"foll",
+				"followers"
+			],
+			[
+				"daddy",
+				"daddyFriends"
+			],
+			[
+				"close",
+				"isCloseFriend"
+			],
+			[
+				"repl",
+				"replyFrom"
+			],
+			[
+				"scren",
+				"screenHeight"
+			],
+			[
+				"lookU",
+				"lookupUsers"
+			],
+			[
+				"twitter",
+				"twitterAPI"
+			],
+			[
+				"pass",
+				"passToSocket"
+			],
+			[
+				"read",
+				"ready	document ready - jQuery"
+			],
+			[
+				"jQu",
+				"jQuery.browser	jQuery.browser.version"
+			],
+			[
+				"j",
+				"jq-boilerplate	jQuery Plugin Boilerplate"
+			],
+			[
+				"getF",
+				"getFriends"
+			],
+			[
+				"ge",
+				"getTimeline"
+			],
+			[
+				"accessTokenS",
+				"accessTokenSecret"
+			],
+			[
+				"seuro",
+				"seuronB"
+			],
+			[
+				"scree",
+				"screenWidth"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"scre",
+				"screenWidth"
+			],
+			[
+				"sc",
+				"screenWidth"
+			],
+			[
+				"console",
+				"console.log	console.log"
+			],
+			[
+				"reply",
+				"reply_guy"
+			],
+			[
+				"friends",
+				"friendship"
+			],
+			[
+				"syn",
+				"synapse"
+			],
+			[
+				"Se",
+				"Seuron"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"consol",
+				"console.log	console.log"
+			],
+			[
+				"dad",
+				"daddyFriends"
+			],
+			[
+				"add",
+				"addFriends"
+			],
+			[
+				"_",
+				"_seuronB"
+			],
+			[
+				"seu",
+				"seuronB"
+			],
+			[
+				"at",
+				"atclose"
+			],
+			[
+				"con",
+				"console.log	console.log"
+			],
+			[
+				"cons",
+				"console.log	console.log"
+			],
+			[
+				"atf",
+				"atfollow"
+			],
+			[
+				"unn",
+				"unknowns"
+			],
+			[
+				"rt",
+				"rtfollow"
+			],
+			[
+				"unk",
+				"unknowns"
+			],
+			[
+				"Seu",
+				"SeuronTmp"
+			],
+			[
+				"clo",
+				"closeFriendsIds"
+			],
+			[
+				"clos",
+				"closeFriends"
+			],
+			[
+				"logge",
+				"loggedIn"
+			],
+			[
+				"terms",
+				"termsOfUse"
+			],
+			[
+				"ma",
+				"makio135_timeline"
+			],
+			[
+				"st",
+				"statuses_count"
+			],
+			[
+				"fr",
+				"friends_count"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 460,
+				"line_ending": "Unix",
+				"name": "controllers.js"
+			}
+		},
+		{
+			"file": "js/directives.js",
+			"settings":
+			{
+				"buffer_size": 1355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/generateData.js",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ng",
+				"Snippet: ngController"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"ang",
+				"Snippet: Angular ngController"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"coff",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"co",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"settin",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"i	",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/clement/Dev/angular-chap-timeline/js/app.js",
+		"/home/clement/Dev/angular-chap-timeline/js/services.js",
+		"/home/clement/Dev/angular-chap-timeline/js/directives.js",
+		"/home/clement/Dev/angular-chap-timeline/data/generateData.js",
+		"/home/clement/Dev/echidna-data/feedconfig.js",
+		"/home/clement/Dev/angular-chap-timeline/data.json",
+		"/home/clement/Dev/echidna-data/d3container.js",
+		"/home/clement/Dev/angular-chap-timeline/index.html",
+		"/home/clement/Dev/angular-chap-timeline/generateData.js",
+		"/home/clement/Dev/angular-chap-timeline/spec/SPEC",
+		"/home/clement/Dev/sna-weibo-ui/routes/api.js",
+		"/home/clement/Dev/sna-weibo-ui/models/Post.js",
+		"/home/clement/Dev/sna-weibo-ui/views/partials/index.html",
+		"/home/clement/Dev/sna-weibo-ui/package.json",
+		"/home/clement/Dev/angular-timeline/SPEC",
+		"/home/clement/Dev/sna-weibo-extract/lib/weiboApiClient.py",
+		"/home/clement/Dev/sna-weibo-extract/sna-weibo.py",
+		"/home/clement/Dev/sna-weibo-extract/tests/mongo.py",
+		"/home/clement/Dev/sna-weibo-extract/samples/lat_lon_nearby.json",
+		"/home/clement/Dev/sna-weibo-extract/lib/fileUtil.py",
+		"/home/clement/Dev/sna-weibo-extract/nearby_lat_lon.json",
+		"/home/clement/Dev/sna-weibo-ui/public/js/app.js",
+		"/home/clement/Dev/sna-weibo-ui/views/partials/readPost.html",
+		"/home/clement/Dev/sna-weibo-ui/public/js/controllers.js",
+		"/home/clement/Dev/sna-weibo-ui/views/partials/addPost.html",
+		"/home/clement/Dev/sna-weibo-ui/start.sh",
+		"/home/clement/Dev/sna-weibo-ui/views/index.html",
+		"/home/clement/Dev/sna-weibo-ui/routes/index.js",
+		"/home/clement/Dev/sna-weibo-ui/README.md",
+		"/home/clement/Dev/sna-weibo-ui/app.js",
+		"/home/clement/Dev/sna-weibo-ui  (express-angular)/package.json",
+		"/home/clement/Dev/sna-weibo-ui (nodebootstrap)/package.json",
+		"/home/clement/Dev/sna-weibo-ui  (express-angular)/app.js",
+		"/home/clement/Dev/sna-weibo-ui (nodebootstrap)/server.js",
+		"/home/clement/Dev/sna-weibo-ui (nodebootstrap)/node_initd.sh",
+		"/home/clement/Dev/sna-weibo-ui  (express-angular)/stop.sh",
+		"/home/clement/Dev/sna-weibo-ui  (express-angular)/start.sh",
+		"/home/clement/Dev/sna-weibo-ui  (express-angular)/README.md",
+		"/home/clement/Dev/sna-weibo-ui (nodebootstrap)/README.md",
+		"/home/clement/Dev/express-angular/README .md",
+		"/home/clement/Dev/sna-weibo-ui/server.js",
+		"/home/clement/Dev/sna-weibo-ui/lib/routes.js",
+		"/home/clement/Dev/sna-weibo-ui/LOG",
+		"/media/Data/Sites/sna-weibo-ui/README.md",
+		"/media/Data/Sites/express-angular/README.md",
+		"/media/Data/Sites/sna-weibo-ui/LOG",
+		"/media/Data/Sites/sna-weibo-extract/README.md",
+		"/media/Data/Sites/sna-weibo-extract/.gitignore",
+		"/media/Data/Sites/sna-weibo/lib/weiboApiClient.py",
+		"/media/Data/Sites/sna-weibo/sna-weibo.py",
+		"/media/Data/Sites/sna-weibo/lib/weiboCrawler.py",
+		"/media/Data/Sites/sna-weibo/lib/__init__.py",
+		"/media/Data/Sites/Pyweibo/pyweibo.py",
+		"/media/Data/Sites/Pyweibo/lib/Pyweibo.py",
+		"/media/Data/Sites/sna-weibo/lib/_WeiboAPIClient.py",
+		"/media/Data/Sites/sna-weibo/lib/weiboApi.py",
+		"/media/Data/Sites/sna-weibo/tests/sna-weibo.py",
+		"/media/Data/Sites/sna-weibo/.gitignore",
+		"/media/Data/Sites/sna-weibo/README.md",
+		"/media/Data/Sites/Pyweibo/tests/api.py",
+		"/media/Data/Sites/Pyweibo/tests/files.py",
+		"/media/Data/Sites/Pyweibo/out/post_3534311687371818_130123_185553/statuses__show_3534311687371818.json",
+		"/home/clement/Desktop/Open the world",
+		"/media/Data/Sites/Pyweibo/.gitignore",
+		"/media/Data/Sites/Pyweibo/README.md",
+		"/media/Data/Sites/Pyweibo/settings.py",
+		"/media/Data/Sites/Pyweibo/setup.py",
+		"/media/Data/Sites/Pyweibo/lib/visualizationUtil.py",
+		"/media/Data/Sites/Pyweibo/lib/weiboApi.py",
+		"/media/Data/Sites/Pyweibo/lib/weiboCrawler.py",
+		"/media/Data/Sites/Pyweibo/modules.log",
+		"/media/Data/Sites/Pyweibo/find_imports.py",
+		"/media/Data/Sites/Pyweibo/pyweibo.deps",
+		"/home/clement/Downloads/contact-template.php",
+		"/home/clement/Downloads/_contact-template.php",
+		"/media/Data/Sites/Pyweibo/tests/userTest.py",
+		"/media/Data/Sites/weibo_tests/sina/myweibo.py",
+		"/home/clement/Downloads/contact-form.php",
+		"/media/Data/Sites/weibo_tests/sina/weibo.py",
+		"/media/Data/Sites/Pyweibo/lib/api/access_token.txt",
+		"/media/Data/Sites/weibo_tests/mining/mining.py",
+		"/media/Data/Sites/Pyweibo/settings.py.copy",
+		"/media/Data/Sites/Pyweibo/out/3",
+		"/media/Data/Sites/Pyweibo/lib/api/api.py",
+		"/media/Data/Sites/Pyweibo/out/0",
+		"/media/Data/Sites/Pyweibo/out/1",
+		"/media/Data/Sites/Pyweibo/out/2",
+		"/media/Data/Sites/Pyweibo/lib/api/weibo.py",
+		"/media/Data/Sites/Pyweibo/lib/WeiboApi.py",
+		"/media/Data/Sites/Pyweibo/lib/WeiboAPI.py",
+		"/media/Data/Sites/Pyweibo/lib/jsonUtil.py",
+		"/media/Data/Sites/Pyweibo/lib/mining/__init__.py",
+		"/media/Data/Sites/Pyweibo/bin/pyweibo",
+		"/media/Data/Sites/Pyweibo/lib/weiboUtil.py",
+		"/media/Data/Sites/Pyweibo/crawl/Pyweibo.py",
+		"/media/Data/Sites/Pyweibo/api/WeiboAPI.py",
+		"/media/Data/Sites/Pyweibo/api/access_token.txt",
+		"/media/Data/Sites/Pyweibo/api/--- WeiboAPI.py",
+		"/media/Data/Sites/Pyweibo/api/___init__.py",
+		"/media/Data/Sites/Pyweibo/api/weiboAPI.py",
+		"/media/Data/Sites/Pyweibo/openapi/WeiboAPI.py",
+		"/media/Data/Sites/Pyweibo/api/api.py",
+		"/media/Data/Sites/Pyweibo/__init__.py",
+		"/media/Data/Sites/Pyweibo/src/main.py",
+		"/media/Data/Sites/Pyweibo/src/api/token.py",
+		"/media/Data/Sites/weibo_tests/OK_Sina-weibo-api-access-by-python/main.py",
+		"/media/Data/Sites/Pyweibo/src/api/weibo.py",
+		"/media/Data/Sites/weibo_tests/OK_Sina-weibo-api-access-by-python/token.py",
+		"/media/Data/Sites/Pyweibo/src/api/main.py",
+		"/media/Data/Sites/Pyweibo/src/api/___init__.py",
+		"/media/Data/Sites/Pyweibo/src/api/http_helper.py",
+		"/media/Data/Sites/weibo_tests/Sina-weibo-api-access-by-python/main.py",
+		"/media/Data/Sites/Pyweibo/src/api/retry.py",
+		"/media/Data/Sites/weibo_tests/py-weibo-oauth2template/app.py",
+		"/media/Data/Sites/weibo_tests/sina/getToken.py",
+		"/media/Data/Sites/weibo_tests/weibo.py",
+		"/media/Data/Sites/weibo_tests/sina/result.txt",
+		"/media/Data/Sites/weibo_tests/SKD_demo/michaelliao-miniweibo-389a8c6/weibo.py",
+		"/media/Data/Sites/Pyweibo/src/mongoDBUtil.py",
+		"/media/Data/Sites/Pyweibo/src/weiboUtil.py",
+		"/home/clement/.cache/.fr-zpvaoh/data/js/tweets/2011_12.js",
+		"/home/clement/.cache/.fr-ufXOlE/data/js/payload_details.js",
+		"/home/clement/.cache/.fr-AxzM3q/data/js/tweet_index.js",
+		"/media/Data/Sites/Pyweibo/src/Pyweibo.py",
+		"/home/clement/qBT_dir/Holy Motors (2012) HQ AC3 DD5.1 Ext ENG NL SUBS BB/Holy Motors (2012) HQ AC3 DD5.1 Ext ENG NL SUBS BB.nfo",
+		"/home/clement/Desktop/Trashbin.desktop",
+		"/media/Data/Sites/Pyweibo/src/textUtil.py",
+		"/media/Data/Sites/Pyweibo/src/_main.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/clement/Dev/sna-weibo-ui",
+			"",
+			"/media/Data/Sites/social-brain-framework/public/viz",
+			"/media/Data/Sites/social-brain-framework/node_modules/",
+			"/media/Data/Sites/social-brain-framework/node_modules/everyauth",
+			"/media/Data/Sites/social-brain-framework/src/",
+			"/media/Data/Sites/social-brain-framework/config/",
+			"/media/Data/Sites/social-brain-framework/src/",
+			"/media/Data/Sites/social-brain-framework/src/views",
+			"/media/Data/Sites/social-brain-framework/public/viz/seuron_viz",
+			"/media/Data/Sites/social-brain-framework/node_modules/weibo",
+			"/media/Data/Sites/social-brain-framework/node_modules/everyauth",
+			"/media/Data/Sites/social-brain-framework/node_modules/everyatuth",
+			"/media/Data/Sites/social-brain-framework/node_modules",
+			"/media/Data/Sites/social-brain-framework/node-modules",
+			"/media/Data/Sites/social-brain-framework/src",
+			"/media/Data/Sites/seuron-viz/",
+			"/media/Data/Sites/seuron-viz/CheckSources"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"/\nlib\nlib",
+			"/\n/lib,\nlib",
+			"lib\nlib",
+			"\nlib",
+			"HOT_RE",
+			"lib",
+			"yo",
+			"parse_python_source",
+			"08\n\n\n\n\n",
+			"tokenLoop",
+			"tokenLoo\ntoken",
+			"tokenLoo\ntokenLoo",
+			"tokenLoop",
+			"clement",
+			"USERID",
+			"ooof",
+			"weiboutil",
+			"30\n\n\n",
+			"JSONOBJ",
+			"toFile",
+			"toFile\ntoF",
+			"toFile\nfilename",
+			"comments__show",
+			"Max",
+			"weiboUtil",
+			"ET",
+			"api",
+			"add_option",
+			"jieba",
+			"Model",
+			"Trie",
+			"True",
+			"'\n",
+			"tostring",
+			"tostrin",
+			"em",
+			"repost",
+			"saveRe",
+			"url",
+			"bs4",
+			"sb4",
+			"gedit.desktop",
+			"nweibo",
+			"memes",
+			"createForceData",
+			"accessToken",
+			"accessToke",
+			"accessToken",
+			"prototype",
+			"cookie-signature",
+			"url",
+			"meme",
+			"/urls",
+			"URL",
+			"things",
+			"admin",
+			"memeform",
+			"helpers",
+			"debug",
+			"/1\n\noauth",
+			"oauth",
+			"var",
+			"3000",
+			"300",
+			"local.host:3000",
+			"everya",
+			"20",
+			"Seuron",
+			"session\nsession",
+			"session\nsessiob",
+			"session",
+			"canvas",
+			"HEAD",
+			"span2",
+			"lmodal",
+			"addUrlModal",
+			"#addUrlModal",
+			"accessToken",
+			"title",
+			"admin/urls",
+			"meme",
+			"URLs",
+			"meme",
+			"Meme",
+			"edit",
+			"twitUserMeta",
+			"With",
+			"HEAD",
+			"	",
+			"HEAD",
+			"Weibo",
+			"weibo",
+			"google",
+			");\n",
+			"google",
+			"require",
+			"github",
+			"weibo",
+			"twitterUser",
+			"weibo",
+			"encode",
+			"lookupUsers",
+			"need some users dude?",
+			"Thread",
+			"seuron",
+			"placehold.it",
+			"createForceData\n\ncreateForceData\ncreateForceData\ncreateForceData\ncreateForceData\ncreateForceData\ncreateForceData\ncreateForceData\n\n",
+			"mouse",
+			"seuronSchema",
+			"look",
+			"twitterFunctions",
+			"err",
+			"findMessageByTwitterId",
+			"findOrCreateSeuronWithTwitterId",
+			"\n",
+			" \n",
+			"35",
+			"20",
+			"35",
+			"interaction",
+			"endAnalyzeTweet",
+			"onAnalyzeTweet",
+			"callback",
+			"findOrCreateSeuronWithTwitterId",
+			".id",
+			"interaction saved",
+			"findOrCreateSeuronWithTwitterId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2765,
+								2765
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"auto_name": "controllers.js",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/directives.js",
+					"settings":
+					{
+						"buffer_size": 1355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 16.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "data/generateData.js",
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 142.0
+	},
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 324.0
+	},
+	"output.git":
+	{
+		"height": 27.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
